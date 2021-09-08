@@ -6,8 +6,7 @@
 Daimyo Labs wants to gain collective intelligence about development and art through Hackathon.
 
 **Prize 1**
-Samurai based generative art bounty 
 https://github.com/daimyolabs/Gitcoin_hackathon/issues/1
 
 
-Prize 2
+**Prize 2**
